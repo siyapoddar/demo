@@ -1,0 +1,7 @@
+.main{
+    height: 200px;
+    width:200px ;
+    background-color: blue;
+    transform:translate( 200px,200px);
+    transform: translate(0px,200px)
+}
